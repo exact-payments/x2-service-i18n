@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fintechdev/x2-service-storage.git"
+    "url": "https://github.com/fintechdev/x2-service-i18n.git"
   },
   "keywords": [
     "i18n"
@@ -55,8 +55,5 @@
   },
   "pre-commit": [
     "eslint"
-  ],
-  "dependencies": {
-    "x2-service-storage": "0.0.2"
-  }
+  ]
 }

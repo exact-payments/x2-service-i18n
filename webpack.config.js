@@ -3,7 +3,7 @@ const UglifyJsPlugin = webpack.optimize.UglifyJsPlugin;
 const path           = require('path');
 const env            = require('yargs').argv.mode;
 
-const libraryName = 'x2-service-storage';
+const libraryName = 'x2-service-i18n';
 
 const plugins = [];
 let outputFile;
