@@ -1,6 +1,6 @@
 # x2-service-i18n
 
-:orange_book: X2 Service i18n for Client Side Applications
+:flags: X2 Service i18n for Client Side Applications
 
 
 ```bash
